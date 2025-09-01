@@ -29,5 +29,5 @@ The goal is to understand how hashmaps work under the hood — including hashing
 ## File Structure
 
 ```plaintext
-├── HashMap.js         # Contains the HashMap class
+├── hashmap.js         # Contains the HashMap class
 └── testHashMap.js     # Test suite to verify functionality
