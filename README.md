@@ -1,7 +1,7 @@
 # hashmap-project
 # Custom HashMap Implementation in JavaScript
 
-This project is a full-featured implementation of a `HashMap` data structure in vanilla JavaScript. It was built as part of [The Odin Project](https://www.theodinproject.com/) curriculum, specifically within the JavaScript Data Structures module.
+This project is a full-featured implementation of a `HashMap` data structure in vanilla JavaScript. It was built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 The goal is to understand how hashmaps work under the hood — including hashing, collision handling, dynamic resizing, and efficient key-value storage — by building one from scratch.
 
